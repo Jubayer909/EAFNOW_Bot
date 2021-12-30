@@ -1,5 +1,5 @@
-# Cloned bot: EAFNowBot - chat bot
-It is repository for chat bot: [@Cloned bot: EAFNowBot](https://t.me/Cloned bot: EAFNowBot)
+# ENFF24_Bot - chat bot
+It is repository for chat bot: [@ENFF24_Bot](https://t.me/ENFF24_Bot)
 
 ## What it is?
 This repository can be imported to [Bots.Business](https://bots.business) as a worked chat bot.
